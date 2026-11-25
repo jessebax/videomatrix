@@ -1,5 +1,15 @@
 # VideoMatrix
 
+Video Matrix works on Windows only and requires 64-bit Python 3.11 or newer.
+[Download Python for Windows](https://www.python.org/downloads/windows/) and
+enable **Add python.exe to PATH** during installation.
+
+## Example
+
+![Video Matrix application screenshot](./videomatrix-example.png)
+
+## Install and run
+
 Open PowerShell in this folder and run:
 
 ```powershell
