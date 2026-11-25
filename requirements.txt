@@ -1,0 +1,4 @@
+numpy
+pyvirtualcam
+SpoutGL
+ndi-python
