@@ -10,12 +10,21 @@ enable **Add python.exe to PATH** during installation.
 
 ## Install and run
 
-Open PowerShell in this folder and run:
+1. On GitHub, click **Code > Download ZIP**.
+2. Unzip the downloaded file.
+3. Open PowerShell and navigate to the unzipped folder containing
+   `requirements.txt` and `videomatrix.py`. For example:
 
-```powershell
-python -m pip install -r requirements.txt
-python videomatrix.py
-```
+   ```powershell
+   cd "C:\path\to\unzipped\videomatrix"
+   ```
+
+4. Install the requirements and run Video Matrix:
+
+   ```powershell
+   python -m pip install -r requirements.txt
+   python videomatrix.py
+   ```
 
 Virtual camera output requires UnityCapture to be installed separately.
 
